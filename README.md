@@ -21,7 +21,7 @@ Projeto feito em Python com Streamlit. O jogo sorteia uma palavra relacionada a 
 1. Clone este repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Duvieiraa/trabalho-liberdade.git
 
 ```
 
